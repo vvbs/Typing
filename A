@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>タイピングゲーム</title>
+</head>
+<body>
+
+<div id="gameArea">
+  <h1 id="wordDisplay">ここに単語が表示されます</h1>
+  <input type="text" id="typedWord" placeholder="ここに単語を入力してください" autofocus>
+  <p id="score">スコア: 0</p>
+</div>
+
+<script>
+  // JavaScriptコードをここに記述します
+</script>
+
+</body>
+</html>
