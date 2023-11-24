@@ -1,0 +1,25 @@
+/* ゲームのスタイル */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#gameArea {
+  margin-top: 50px;
+}
+
+#wordDisplay {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#typedWord {
+  padding: 10px;
+  font-size: 18px;
+}
+
+#score {
+  font-size: 20px;
+}
