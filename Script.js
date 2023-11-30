@@ -1,4 +1,4 @@
-// JavaScriptコード
+// JavaScript
 const words = ['apple', 'banana', 'orange', 'grape', 'pineapple', 'watermelon', 'strawberry', 'kiwi', 'blueberry', 'peach'];
 let currentWord;
 let score = 0;
